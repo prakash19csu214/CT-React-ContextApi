@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png",
+      "fname": "Vija",
+      "lname": "Kumar",
+      "email": "vijay.kumar@celebaltech.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "fname": "Aryan",
+      "lname": "Singh",
+      "username": "aryan.singh@celebaltech.com",
+      "email": "aryan.singh@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 3,
+      "fname": "Sonal",
+      "lname": "Kumari",
+      "username": "sonal.kumari@celebaltech.com",
+      "email": "sonal.kumari@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 4,
+      "fname": "Cat",
+      "lname": "Gato",
+      "username": "cat.gato@celebaltech.com",
+      "email": "cat.gato@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 5,
+      "fname": "Bhavika",
+      "lname": "Jain",
+      "username": "bhavika.jain@celebaltech.com",
+      "email": "bhavika.jain@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 6,
+      "fname": "Junior",
+      "lname": "Gato",
+      "username": "junior.gato@celebaltech.com",
+      "email": "junior.gato@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 7,
+      "fname": "Gato",
+      "lname": "Senior",
+      "username": "gato.senior@celebaltech.com",
+      "email": "gato.senior@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 8,
+      "fname": "Hemant",
+      "lname": "Kumar",
+      "username": "hemant.kumar@celebaltech.com",
+      "email": "hemant.kumar@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "id": 9,
+      "fname": "Hema",
+      "lname": "Gato",
+      "username": "hema.gato@celebaltech.com",
+      "email": "hema.gato@celebaltech.com",
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png"
+    },
+    {
+      "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png",
+      "fname": "Cat 2",
+      "lname": "Gato 3",
+      "email": "cat.gato3@celebaltech.com",
+      "id": 10
+    }
+  ]
+}
